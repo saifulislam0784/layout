@@ -1,0 +1,289 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+
+	width: 1140px;
+	margin: 0px auto;
+
+}
+
+/* header part start */
+
+header{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background-color: white;
+	position: fixed;
+	top: 0px;
+	
+}
+.logo{
+
+	width: 20%;
+	float: left;
+}
+.logo img{
+	height: 35px;
+	width: 60px;
+	margin: 2px 0px;
+	
+}
+
+.menu{
+
+	width: 40%;
+	float: left;
+
+}
+ nav ul{
+	list-style: none;
+}
+
+nav ul li{
+
+	display: inline-block;
+	margin: 10px 8px;
+	float: left;
+}
+
+nav ul li a{
+	text-decoration: none;
+
+}
+
+.social{
+
+	width: 40%;
+	float: left;
+}
+
+ .social ul li{
+
+	display: inline-block;
+	margin: 10px 12px;
+	float: left;
+}
+
+.fa.fa-facebook{
+	background-color: blue;
+	padding: 6px 10px;
+	color: white;
+	font-size: 12px;
+}
+
+.fa.fa-twitter{
+	background-color: skyblue;
+	padding: 6px 10px;
+	color: white;
+	font-size: 12px;
+}
+
+.fa.fa-linkedin{
+	background-color: #031f98;
+	padding: 6px 10px;
+	color: white;
+	font-size: 12px;
+}
+
+.fa.fa-google-plus{
+	background-color: #ff0000bf;
+	padding: 6px 10px;
+	color: white;
+	font-size: 12px;
+}
+
+
+/* header part end */
+
+
+/* hero part end */
+
+.hero{
+
+	background: url(../img/man.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	}
+
+.market{
+	width: 600px;
+	background: #8080806e;
+	
+}
+
+.market h2{
+	font-size: 40px;
+	text-align: center;
+}
+
+.market p{
+	text-align: center;
+}
+.market a{
+	text-align: left;
+	
+	}
+/* hero part end */
+
+/* service part start*/
+.service{
+	width: 100%;
+	float:left;
+}
+
+.concept{
+	width: 25%;
+	float: left;
+
+}
+.loan{
+	width: 25%;
+	float: left;
+}
+.financing{
+	width: 25%;
+	float: left;
+}
+.signup{
+	width: 25%;
+	float: left;
+}
+
+
+/* service part end */
+
+/* invest part start */
+
+.invest{
+	width: 100%;
+	float:left;
+}
+.money-left{
+	width: 50%;
+	float: left;
+}
+.money-right{
+	width: 50%;
+	float: left;
+}
+/* invest part end */
+
+/* blog part start */
+	.blog{
+		width: 100%;
+		float:left;
+		background-color: white;
+	}
+	.blog h2{
+		display: inline-block;
+
+	}
+
+	.blog-left{
+		width: 50%;
+		float: left;
+	}
+	.blog-right{
+		width: 50%;
+		float: left;
+	}
+/* blog part start */
+
+/* info part start*/
+.info{
+	width: 100%;
+	float:left;
+	background-color: #8080803b;
+}
+
+/* info part end */
+
+
+/* icon part start*/
+
+.icon{
+	width: 100%;
+	float:left;
+}
+
+.icon ul li{
+	display: inline-block;
+	margin: 10px 8px;
+	background-color: #73D003;
+
+
+}
+
+
+/* icon part start*/
+
+/* mention part start*/
+
+.mention{
+	width: 100%;
+	float:left;
+	background-color: gray;
+}
+.mention h2{
+	text-align: center;
+	margin: 20px 0px;
+}
+.left-1{
+	width: 25%;
+	float: left;
+}
+.left-2{
+	width: 25%;
+	float: left;
+}
+.right-1{
+	width: 25%;
+	float: left;
+}
+.right-2{
+	width: 25%;
+	float: left;
+}
+
+/* mention part end */
+
+/* footer part start*/
+footer{
+	width: 100%;
+	float:left;
+	background-color: #070e07;
+}
+.footer-left{
+	width: 50%;
+	float: left;
+	text-align: right;
+	color: white;
+	margin: 20px 0px;
+}
+	
+}
+.footer-right{
+	width: 50%;
+	float: left;
+	text-align: left;
+	color: white;
+	margin: 20px 0px;
+	
+}
+.footer-right p{
+	color: white;
+	margin: 20px 0px;
+}
+
+	
+
+/* footer part end*/
+
+
+
+
